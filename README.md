@@ -1,7 +1,7 @@
 # My Undergrad Thesis
 
 Code and my undegrad thesis (2015). In this thesis, I propose a different
-approach to dictionary learning I called "non-sparsed dictionary learning".
+approach to dictionary learning called "non-sparsed dictionary learning".
 My experiments show that my approach is faster, better than other sparse dictionary learning approaches.
 
 Although people don't use dictionary learning any more today, I just want to publish
